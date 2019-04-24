@@ -1,0 +1,33 @@
+Think on which technology we have to create it
+
+** Server Side **
+1) Express (javascript NodeJs environment)
+2) Django / Flask (python)
+3) Laravel / CodeIgnitor(php)
+
+
+** Database **
+1) MYSQL (Relational database)
+2) MongoDB (Non Relational Database)
+
+
+** Server Side **
+1) React
+2) Vue
+3) Angular
+4) EmberJs
+
+
+** Hosting **
+1) AWS
+2) Microsoft Azure
+3) Google Cloud Platform
+4) Heroku
+5) DigitialOcean
+
+** HTML CSS framework or library **
+1) Bootstrap
+2) Materialize
+
+
+Other then this are welcomed.
