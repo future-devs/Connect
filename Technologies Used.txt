@@ -11,7 +11,7 @@ Think on which technology we have to create it
 2) MongoDB (Non Relational Database)
 
 
-** Server Side **
+** Client Side **
 1) React
 2) Vue
 3) Angular
