@@ -14,7 +14,7 @@ Think on which technology we have to create it
 ** Client Side **
 1) React
 2) Vue
-3) Angular
+3) AngularJS
 4) EmberJs
 
 
